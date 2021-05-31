@@ -1,1 +1,14 @@
-/* styles go here */
+.field-set {
+  margin-top: 20px;
+  margin-left: 2px;
+  margin-bottom: 20px;
+  margin-right: 2px;
+}
+
+.form-field {
+  margin: 10px 0;
+}
+
+.form-field2 {
+  margin: 0 0 10px;
+}
